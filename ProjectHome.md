@@ -1,0 +1,1 @@
+Real-Time OCR on mobile with Text-To-Speech on android phone
